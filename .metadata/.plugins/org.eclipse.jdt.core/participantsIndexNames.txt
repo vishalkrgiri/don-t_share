@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\visha\Desktop\Capgemini\Sprint2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2472926120.index
+\spring-boot-starter-parent\src\main\resources
+C:\Users\visha\Desktop\Capgemini\Sprint2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1264351568.index
+\MovieBookingSystem\src\main\resources
